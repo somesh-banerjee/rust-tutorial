@@ -12,3 +12,4 @@ cargo test
 ### Notes for self
 
 - Revisit lifetime in Rust
+- Arc for thread safety is not clear, probably will not be used in common use cases
